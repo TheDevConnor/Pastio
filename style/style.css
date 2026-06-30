@@ -485,10 +485,6 @@ nav .wrap {
     transition: background .2s ease;
 }
 
-.slice:hover {
-    background: #fff;
-}
-
 .slice .num {
     font-family: 'Fraunces', serif;
     font-size: 13px;
