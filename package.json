@@ -1,0 +1,19 @@
+{
+  "name": "pastio",
+  "version": "1.0.0",
+  "description": "Pastaio Handmade Pasta & Pizza website",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.1"
+  }
+}
